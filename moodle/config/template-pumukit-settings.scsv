@@ -1,0 +1,12 @@
+'';'filter_pumukitpr_secret'; ${PUMUKIT_PR_SECRET}
+'';'reposecretkey'; ${REPOSECRETKEY}
+'';'filter_pumukit_secret'; ${PUMUKIT_SECRET}
+'';'iframe_singlevideo_width'; "592px"
+'';'iframe_singlevideo_height'; "333px"
+'';'iframe_multivideo_width'; "592px"
+'';'iframe_multivideo_height'; "333px"
+'';'media_plugins_sortorder'; "videojs,youtube,swf"
+'atto_pumukit';'pumukiturl'; ${PUMUKIT_URL}
+'atto_pumukitpr';'dialogtitle'; "Add Poddium videos"
+'atto_pumukitpr';'pumukitprurl'; ${PUMUKIT_PR_URL}
+'atto_pumukitpr';'password'; ${PUMUKIT_PR_SECRET}
